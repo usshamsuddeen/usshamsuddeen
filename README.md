@@ -8,24 +8,17 @@
   <!-- ── HEADER BANNER ── -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:16213e,75:0a3d62,100:0d1117&height=230&section=header&text=Muhammad%20Usman%20Shams&fontSize=44&fontAlignY=36&desc=Software%20Engineer%20·%20AI%2FML%20Researcher%20·%20Cloud%20Architect%20·%20UI%2FUX%20Designer&descAlignY=58&descFontSize=16&fontColor=e2e8f0&descColor=94a3b8&animation=fadeIn" width="100%" alt="Muhammad Usman Shams" />
 
+  <!-- ── SUBTITLE METRICS ── -->
+  <samp><b>13+ Research Projects &nbsp;·&nbsp; 6+ Peer-Reviewed Publications &nbsp;·&nbsp; AWS · Azure · Google Certified &nbsp;·&nbsp; CGPA 3.68/4.00 (Rank 4th)</b></samp>
+  <br/><br/>
+
   <!-- ── DYNAMIC TYPING ── -->
-  <br/>
   <a href="https://github.com/usshamsuddeen">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=40&lines=%E2%9A%A1+AI+Researcher+%40+Beijing+Institute+of+Technology+%26+Wuhan+University+of+Technology;%F0%9F%8F%86+AWS+Solutions+Architect+%7C+Microsoft+Azure+AI+%7C+Google+UX+Certified;%F0%9F%93%84+Author+of+6%2B+Peer-Reviewed+IEEE+%26+International+Publications;%F0%9F%94%AC+Specializing+in+PINN%2C+KAN%2C+Agentic+AI%2C+RAG+%26+Digital+Twins;%F0%9F%A4%96+13%2B+Production+AI%2FML+%26+Deep+Learning+Research+Projects;%F0%9F%8E%A8+Google+Certified+UX+Design+Professional+%7C+Design+Systems+Architect" alt="Typing SVG" />
   </a>
 
   <br/>
-
-  <!-- ── QUICK METRICS ── -->
-  <p>
-    <img src="https://img.shields.io/badge/%E2%9A%A1_Research_Projects-13%2B-38BDF8?style=flat-square&labelColor=1a1a2e" alt="Projects" />&nbsp;
-    <img src="https://img.shields.io/badge/%F0%9F%93%84_Publications-6%2B_Peer--Reviewed-818CF8?style=flat-square&labelColor=1a1a2e" alt="Publications" />&nbsp;
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86_Certified-AWS_·_Azure_·_Google-34D399?style=flat-square&labelColor=1a1a2e" alt="Certifications" />&nbsp;
-    <img src="https://img.shields.io/badge/%F0%9F%8E%93_CGPA-3.68%2F4.00_(Rank_4th)-F59E0B?style=flat-square&labelColor=1a1a2e" alt="CGPA" />
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=usshamsuddeen&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=38BDF8&style=flat-square&labelColor=1a1a2e" alt="Profile Views" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=usshamsuddeen&label=Profile+Views&color=38BDF8&style=flat-square&labelColor=1a1a2e" alt="Profile Views" />
 
   <!-- ── SOCIAL LINKS ── -->
   <p>
