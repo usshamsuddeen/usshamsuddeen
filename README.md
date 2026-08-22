@@ -6,27 +6,26 @@
 <div align="center">
 
   <!-- ── HEADER BANNER ── -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:16213e,75:0a3d62,100:0d1117&height=230&section=header&text=Muhammad%20Usman%20Shams&fontSize=44&fontAlignY=36&desc=Software%20Engineer%20·%20AI%2FML%20Researcher%20·%20Cloud%20Architect%20·%20UI%2FUX%20Designer&descAlignY=58&descFontSize=16&fontColor=e2e8f0&descColor=94a3b8&animation=fadeIn" width="100%" alt="Muhammad Usman Shams" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:16213e,75:0a3d62,100:0d1117&height=220&section=header&text=Muhammad%20Usman%20Shams&fontSize=42&fontAlignY=36&desc=Software%20Engineer%20·%20AI%2FML%20Researcher%20·%20Cloud%20Architect%20·%20UI%2FUX%20Designer&descAlignY=58&descFontSize=16&fontColor=e2e8f0&descColor=94a3b8" width="100%" alt="Muhammad Usman Shams" />
 
   <!-- ── SUBTITLE METRICS ── -->
-  <samp><b>13+ Research Projects &nbsp;·&nbsp; 6+ Peer-Reviewed Publications &nbsp;·&nbsp; AWS · Azure · Google Certified &nbsp;·&nbsp; CGPA 3.68/4.00 (Rank 4th)</b></samp>
-  <br/><br/>
+  <p align="center">
+    <b>⚡ 13+ Research Projects &nbsp;&nbsp;·&nbsp;&nbsp; 📄 6+ Peer-Reviewed Publications &nbsp;&nbsp;·&nbsp;&nbsp; 🏆 AWS · Azure · Google Certified &nbsp;&nbsp;·&nbsp;&nbsp; 🎓 CGPA 3.68/4.00 (Rank 4th)</b>
+  </p>
 
-  <!-- ── DYNAMIC TYPING ── -->
+  <!-- ── DYNAMIC TYPING SVG ── -->
   <a href="https://github.com/usshamsuddeen">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=40&lines=%E2%9A%A1+AI+Researcher+%40+Beijing+Institute+of+Technology+%26+Wuhan+University+of+Technology;%F0%9F%8F%86+AWS+Solutions+Architect+%7C+Microsoft+Azure+AI+%7C+Google+UX+Certified;%F0%9F%93%84+Author+of+6%2B+Peer-Reviewed+IEEE+%26+International+Publications;%F0%9F%94%AC+Specializing+in+PINN%2C+KAN%2C+Agentic+AI%2C+RAG+%26+Digital+Twins;%F0%9F%A4%96+13%2B+Production+AI%2FML+%26+Deep+Learning+Research+Projects;%F0%9F%8E%A8+Google+Certified+UX+Design+Professional+%7C+Design+Systems+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=36&lines=%E2%9A%A1+AI+Researcher+%40+Beijing+Institute+of+Technology+%26+Wuhan+University+of+Technology;%F0%9F%8F%86+AWS+Solutions+Architect+%7C+Microsoft+Azure+AI+%7C+Google+UX+Certified;%F0%9F%93%84+Author+of+6%2B+Peer-Reviewed+IEEE+%26+International+Publications;%F0%9F%94%AC+Specializing+in+PINN%2C+KAN%2C+Agentic+AI%2C+RAG+%26+Digital+Twins;%F0%9F%A4%96+13%2B+Production+AI%2FML+%26+Deep+Learning+Research+Projects;%F0%9F%8E%A8+Google+Certified+UX+Design+Professional+%7C+Design+Systems+Architect" alt="Typing SVG" />
   </a>
 
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=usshamsuddeen&label=Profile+Views&color=38BDF8&style=flat-square&labelColor=1a1a2e" alt="Profile Views" />
-
-  <!-- ── SOCIAL LINKS ── -->
-  <p>
-    <a href="https://www.linkedin.com/in/usshamsuddeen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-    <a href="https://orcid.org/0009-0006-2883-7947" target="_blank"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;&nbsp;
-    <a href="https://mushams.medium.com" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;&nbsp;
-    <a href="https://www.behance.net/Shamsss" target="_blank"><img src="https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance" /></a>&nbsp;&nbsp;
-    <a href="mailto:us.shamsuddeen@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- ── SOCIAL LINKS & VIEWS ── -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/usshamsuddeen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://orcid.org/0009-0006-2883-7947" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
+    <a href="https://mushams.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+    <a href="https://www.behance.net/Shamsss" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>&nbsp;
+    <a href="mailto:us.shamsuddeen@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=usshamsuddeen&label=Profile+Views&color=38BDF8&style=flat-square&labelColor=1a1a2e" alt="Profile Views" />
   </p>
 
 </div>
