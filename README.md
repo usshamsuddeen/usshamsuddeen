@@ -295,7 +295,7 @@ I am a **Software Engineer** and **AI Researcher** building production-grade int
     <tr>
       <td align="center" width="33%">
         <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate" target="_blank">
-          <img src="https://raw.githubusercontent.com/usshamsuddeen/usshamsuddeen/main/badges/aws-saa.png" width="120" alt="AWS Solutions Architect Associate" />
+          <img src="./badges/aws-saa.png" width="120" alt="AWS Solutions Architect Associate" />
         </a><br/><br/>
         <b>Solutions Architect</b><br/>
         <sub>Associate · Amazon Web Services</sub><br/>
@@ -303,7 +303,7 @@ I am a **Software Engineer** and **AI Researcher** building production-grade int
       </td>
       <td align="center" width="33%">
         <a href="https://learn.microsoft.com/en-us/credentials/" target="_blank">
-          <img src="https://raw.githubusercontent.com/usshamsuddeen/usshamsuddeen/main/badges/microsoft-associate.png" width="120" alt="Microsoft Certified Associate" />
+          <img src="./badges/microsoft-associate.png" width="120" alt="Microsoft Certified Associate" />
         </a><br/><br/>
         <b>AI Agents Developer</b><br/>
         <sub>Associate · Microsoft Azure</sub><br/>
@@ -311,7 +311,7 @@ I am a **Software Engineer** and **AI Researcher** building production-grade int
       </td>
       <td align="center" width="33%">
         <a href="https://www.credly.com/org/google/badge/google-ux-design-certificate" target="_blank">
-          <img src="https://raw.githubusercontent.com/usshamsuddeen/usshamsuddeen/main/badges/google-ux.png" width="120" alt="Google UX Design Professional" />
+          <img src="./badges/google-ux.png" width="120" alt="Google UX Design Professional" />
         </a><br/><br/>
         <b>UX Design Professional</b><br/>
         <sub>Certificate · Google</sub><br/>
