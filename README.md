@@ -4,14 +4,15 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=45&lines=AI+Researcher+%40+Beijing+Institute+of+Technology;AWS+Certified+Solutions+Architect+%7C+Azure+AI+Developer;Author+of+6%2B+Peer-Reviewed+IEEE+%26+Intl+Publications;Architecting+Physics-Informed+Neural+Networks+%26+KAN;Specialist+in+Agentic+AI%2C+RAG+%26+Digital+Twins;Google+Certified+UX+Design+Professional)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=45&lines=AI+Researcher+%40+Beijing+Institute+of+Technology;AWS+Certified+Solutions+Architect+%7C+Azure+AI+Developer;Author+of+6%2B+Peer-Reviewed+IEEE+%26+Intl+Publications;Architecting+Physics-Informed+Neural+Networks+%26+KAN;Specialist+in+Agentic+AI%2C+RAG+%26+Digital+Twins;Google+Certified+UX+Design+Professional)](https://github.com/usshamsuddeen)
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/usshamsuddeen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://orcid.org/0009-0006-2883-7947"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-    <a href="https://mushams.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-    <a href="https://www.behance.net/Shamsss"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+    <a href="https://www.linkedin.com/in/usshamsuddeen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://orcid.org/0009-0006-2883-7947" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+    <a href="https://mushams.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="https://www.behance.net/Shamsss" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
     <a href="mailto:us.shamsuddeen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=usshamsuddeen&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
   </p>
 
 </div>
@@ -33,7 +34,7 @@ I am a **Software Engineer** and **AI Researcher** with a multi-disciplinary bac
 
 <table>
   <tr>
-    <td width="20%" align="center"><b>Artificial Intelligence & ML</b></td>
+    <td width="22%" align="center"><b>Artificial Intelligence & ML</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -48,7 +49,7 @@ I am a **Software Engineer** and **AI Researcher** with a multi-disciplinary bac
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>Cloud, Backend & DevOps</b></td>
+    <td width="22%" align="center"><b>Cloud, Backend & DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
@@ -62,7 +63,7 @@ I am a **Software Engineer** and **AI Researcher** with a multi-disciplinary bac
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>Frontend & Systems Design</b></td>
+    <td width="22%" align="center"><b>Frontend & Systems Design</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -73,7 +74,7 @@ I am a **Software Engineer** and **AI Researcher** with a multi-disciplinary bac
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><b>UI/UX & Product Design</b></td>
+    <td width="22%" align="center"><b>UI/UX & Product Design</b></td>
     <td>
       <img src="https://img.shields.io/badge/Google%20UX%20Certified-4285F4?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
@@ -198,30 +199,36 @@ I am a **Software Engineer** and **AI Researcher** with a multi-disciplinary bac
 
 ### 🏅 Honors, Awards & International Certifications
 
-- 🏆 **AWS Certified Solutions Architect – Associate** — *Amazon Web Services (AWS)*
-- 🏆 **Microsoft Certified: AI Agents Developer – Associate** — *Microsoft Azure*
-- 🏆 **Google UX Design Professional Certificate** — *Google*
-- 🎖️ **Dean's Honor Certificate (Outstanding Academic Achievement)** — *KFUEIT*
-- 🎖️ **Rank 4th / Entire Batch (BS Software Engineering, CGPA 3.68/4.00)** — *KFUEIT*
-- 🎖️ **HEC PMYP Laptop Award (Academic Excellence)** — *Higher Education Commission*
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-AI%20Agents%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Certified-UX%20Design%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/KFUEIT%20Dean's%20Honor-Outstanding%20Academic%20Achievement-10B981?style=for-the-badge&logo=acm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rank%204th%20Batch-BS%20Software%20Engineering%20(3.68%20CGPA)-6366F1?style=for-the-badge&logo=academia&logoColor=white" />
+    <img src="https://img.shields.io/badge/HEC%20PMYP-Academic%20Excellence%20Award-F59E0B?style=for-the-badge&logo=affinity&logoColor=white" />
+  </p>
+</div>
 
 ---
 
-### 📊 GitHub Activity & Dynamic Statistics
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=usshamsuddeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=usshamsuddeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usshamsuddeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=usshamsuddeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" width="100%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=usshamsuddeen&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" width="100%" alt="GitHub Streak" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=usshamsuddeen&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=818cf8&point=f59e0b" width="100%" alt="GitHub Activity Graph" />
       </td>
     </tr>
   </table>
@@ -237,6 +244,7 @@ I am a **Software Engineer** and **AI Researcher** with a multi-disciplinary bac
   <p>
     <a href="mailto:us.shamsuddeen@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-us.shamsuddeen@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Email" /></a>
     <a href="https://www.linkedin.com/in/usshamsuddeen/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/usshamsuddeen"><img src="https://img.shields.io/badge/Follow-@usshamsuddeen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,35,46&height=100&section=footer" width="100%" alt="Footer Banner" />
