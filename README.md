@@ -36,7 +36,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
 
-I am a **Software Engineer** and **AI Researcher** building production-grade intelligent systems at the intersection of **Deep Learning**, **Physics-Informed Neural Networks (PINN)**, **Kolmogorov-Arnold Networks (KAN)**, **Digital Twins**, and **Human-Centric Design**.
+I am a **Software Engineer** & **AI Researcher** architecting next-generation intelligent systems — bridging frontier AI research (**PINN · KAN · Agentic RAG · Digital Twins**), enterprise cloud infrastructure, and human-centric product design into mission-critical solutions.
 
 <table>
 <tr><td>
