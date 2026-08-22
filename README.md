@@ -18,11 +18,13 @@
 
   <!-- ── QUICK METRICS ── -->
   <p>
-    <img src="https://img.shields.io/badge/%E2%9A%A1_Research_Projects-13%2B-38BDF8?style=flat&labelColor=1a1a2e" alt="Projects" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/%F0%9F%93%84_Publications-6%2B_Peer--Reviewed-818CF8?style=flat&labelColor=1a1a2e" alt="Publications" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86_Certified-AWS_%C2%B7_Azure_%C2%B7_Google-34D399?style=flat&labelColor=1a1a2e" alt="Certifications" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/%F0%9F%8E%93_CGPA-3.68%2F4.00_(Rank_4th)-F59E0B?style=flat&labelColor=1a1a2e" alt="CGPA" />&nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=usshamsuddeen&label=%F0%9F%91%81+Profile+Views&color=38BDF8&style=flat&labelColor=1a1a2e" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/%E2%9A%A1_Research_Projects-13%2B-38BDF8?style=flat-square&labelColor=1a1a2e" alt="Projects" />&nbsp;
+    <img src="https://img.shields.io/badge/%F0%9F%93%84_Publications-6%2B_Peer--Reviewed-818CF8?style=flat-square&labelColor=1a1a2e" alt="Publications" />&nbsp;
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86_Certified-AWS_·_Azure_·_Google-34D399?style=flat-square&labelColor=1a1a2e" alt="Certifications" />&nbsp;
+    <img src="https://img.shields.io/badge/%F0%9F%8E%93_CGPA-3.68%2F4.00_(Rank_4th)-F59E0B?style=flat-square&labelColor=1a1a2e" alt="CGPA" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=usshamsuddeen&label=%F0%9F%91%81%EF%B8%8F+Profile+Views&color=38BDF8&style=flat-square&labelColor=1a1a2e" alt="Profile Views" />
   </p>
 
   <!-- ── SOCIAL LINKS ── -->
@@ -296,32 +298,41 @@ I am a **Software Engineer** and **AI Researcher** building production-grade int
 
 <div align="center">
 
-  <!-- ── International Certifications ── -->
+  <!-- ── Official Certification Badges ── -->
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /><br/>
-        <sub><b>Solutions Architect – Associate</b></sub><br/>
-        <sub>Cloud Architecture · Certified Aug 2026</sub>
+        <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate" target="_blank">
+          <img src="https://raw.githubusercontent.com/usshamsuddeen/usshamsuddeen/main/badges/aws-saa.png" width="120" alt="AWS Solutions Architect Associate" />
+        </a><br/><br/>
+        <b>Solutions Architect</b><br/>
+        <sub>Associate · Amazon Web Services</sub><br/>
+        <sub>Certified — Aug 2026</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-        <sub><b>AI Agents Developer – Associate</b></sub><br/>
-        <sub>AI & Cloud Services · Certified July 2026</sub>
+        <a href="https://learn.microsoft.com/en-us/credentials/" target="_blank">
+          <img src="https://raw.githubusercontent.com/usshamsuddeen/usshamsuddeen/main/badges/microsoft-associate.png" width="120" alt="Microsoft Certified Associate" />
+        </a><br/><br/>
+        <b>AI Agents Developer</b><br/>
+        <sub>Associate · Microsoft Azure</sub><br/>
+        <sub>Certified — July 2026</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
-        <sub><b>UX Design Professional</b></sub><br/>
-        <sub>User Experience · Certified Feb 2023</sub>
+        <a href="https://www.credly.com/org/google/badge/google-ux-design-certificate" target="_blank">
+          <img src="https://raw.githubusercontent.com/usshamsuddeen/usshamsuddeen/main/badges/google-ux.png" width="120" alt="Google UX Design Professional" />
+        </a><br/><br/>
+        <b>UX Design Professional</b><br/>
+        <sub>Certificate · Google</sub><br/>
+        <sub>Certified — Feb 2023</sub>
       </td>
     </tr>
   </table>
 
   <!-- ── Academic Honors ── -->
   <br/>
-  <img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F_Dean's_Honor_Certificate-Outstanding_Academic_Achievement-10B981?style=flat&labelColor=1a1a2e" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%A5%87_Rank_4th_/_Entire_Batch-CGPA_3.68%2F4.00_·_BS_Software_Engineering-818CF8?style=flat&labelColor=1a1a2e" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93_HEC_PMYP_Laptop_Award-Academic_Excellence_Recognition-F59E0B?style=flat&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F_Dean's_Honor_Certificate-Outstanding_Academic_Achievement-10B981?style=flat-square&labelColor=1a1a2e" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%A5%87_Rank_4th_/_Entire_Batch-CGPA_3.68%2F4.00_·_BS_Software_Engineering-818CF8?style=flat-square&labelColor=1a1a2e" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_HEC_PMYP_Laptop_Award-Academic_Excellence_Recognition-F59E0B?style=flat-square&labelColor=1a1a2e" />
 
 </div>
 
