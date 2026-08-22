@@ -18,20 +18,20 @@
 
   <!-- ── QUICK METRICS ── -->
   <p>
-    <img src="https://img.shields.io/badge/Research_Projects-13%2B-38BDF8?style=flat-square&labelColor=0d1117" alt="Projects" />
-    <img src="https://img.shields.io/badge/Publications-6%2B_Peer--Reviewed-818CF8?style=flat-square&labelColor=0d1117" alt="Publications" />
-    <img src="https://img.shields.io/badge/Certifications-AWS_·_Azure_·_Google-34D399?style=flat-square&labelColor=0d1117" alt="Certifications" />
-    <img src="https://img.shields.io/badge/CGPA-3.68%2F4.00_(Rank_4th)-F59E0B?style=flat-square&labelColor=0d1117" alt="CGPA" />
-    <img src="https://komarev.com/ghpvc/?username=usshamsuddeen&label=Profile+Views&color=38BDF8&style=flat-square&labelColor=0d1117" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/%E2%9A%A1_Research_Projects-13%2B-38BDF8?style=flat&labelColor=1a1a2e" alt="Projects" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/%F0%9F%93%84_Publications-6%2B_Peer--Reviewed-818CF8?style=flat&labelColor=1a1a2e" alt="Publications" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86_Certified-AWS_%C2%B7_Azure_%C2%B7_Google-34D399?style=flat&labelColor=1a1a2e" alt="Certifications" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/%F0%9F%8E%93_CGPA-3.68%2F4.00_(Rank_4th)-F59E0B?style=flat&labelColor=1a1a2e" alt="CGPA" />&nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=usshamsuddeen&label=%F0%9F%91%81+Profile+Views&color=38BDF8&style=flat&labelColor=1a1a2e" alt="Profile Views" />
   </p>
 
   <!-- ── SOCIAL LINKS ── -->
   <p>
-    <a href="https://www.linkedin.com/in/usshamsuddeen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="https://orcid.org/0009-0006-2883-7947" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
-    <a href="https://mushams.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-    <a href="https://www.behance.net/Shamsss" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>&nbsp;
-    <a href="mailto:us.shamsuddeen@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/usshamsuddeen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+    <a href="https://orcid.org/0009-0006-2883-7947" target="_blank"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;&nbsp;
+    <a href="https://mushams.medium.com" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;&nbsp;
+    <a href="https://www.behance.net/Shamsss" target="_blank"><img src="https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance" /></a>&nbsp;&nbsp;
+    <a href="mailto:us.shamsuddeen@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
@@ -292,40 +292,78 @@ I am a **Software Engineer** and **AI Researcher** building production-grade int
 
 <!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> &nbsp;International Certifications & Honors
+### 🏅 &nbsp;International Certifications & Honors
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
-    <img src="https://img.shields.io/badge/Microsoft-AI%20Agents%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Google-UX%20Design%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1a2e" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Dean's%20Honor-Outstanding%20Academic%20Achievement-10B981?style=flat-square&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Rank%204th-BS%20Software%20Eng%20·%20CGPA%203.68%2F4.00-6366F1?style=flat-square&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/HEC%20PMYP-Academic%20Excellence%20Award-F59E0B?style=flat-square&labelColor=0d1117" />
-  </p>
+
+  <!-- ── International Certifications ── -->
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /><br/>
+        <sub><b>Solutions Architect – Associate</b></sub><br/>
+        <sub>Cloud Architecture · Certified Aug 2026</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
+        <sub><b>AI Agents Developer – Associate</b></sub><br/>
+        <sub>AI & Cloud Services · Certified July 2026</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
+        <sub><b>UX Design Professional</b></sub><br/>
+        <sub>User Experience · Certified Feb 2023</sub>
+      </td>
+    </tr>
+  </table>
+
+  <!-- ── Academic Honors ── -->
+  <br/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F_Dean's_Honor_Certificate-Outstanding_Academic_Achievement-10B981?style=flat&labelColor=1a1a2e" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%A5%87_Rank_4th_/_Entire_Batch-CGPA_3.68%2F4.00_·_BS_Software_Engineering-818CF8?style=flat&labelColor=1a1a2e" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_HEC_PMYP_Laptop_Award-Academic_Excellence_Recognition-F59E0B?style=flat&labelColor=1a1a2e" />
+
 </div>
 
 ---
 
 <!-- ═══════════════════ RESEARCH AREAS ═══════════════════ -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="28" /> &nbsp;Research Interests
+### 🔬 &nbsp;Research Interests
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-4F46E5?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Digital%20Twin-059669?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Autonomous%20Systems-D97706?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Healthcare%20AI-DC2626?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Physics--Informed%20NN-6366F1?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/KAN%20Networks-0EA5E9?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Conversational%20AI-EC4899?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Semi--Supervised%20Learning-818CF8?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Industry%204.0%2F5.0-38BDF8?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Adversarial%20ML-F43F5E?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Edge%20AI%20%26%20Robotics-14B8A6?style=for-the-badge&labelColor=0d1117" />
+  <table>
+    <tr>
+      <td align="center">
+        <b>🤖 Intelligent Systems</b><br/><br/>
+        <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat&labelColor=1a1a2e" />&nbsp;
+        <img src="https://img.shields.io/badge/Conversational_AI-EC4899?style=flat&labelColor=1a1a2e" />&nbsp;
+        <img src="https://img.shields.io/badge/RAG_Systems-4F46E5?style=flat&labelColor=1a1a2e" />&nbsp;
+        <img src="https://img.shields.io/badge/Knowledge_Based_Systems-6366F1?style=flat&labelColor=1a1a2e" />
+      </td>
+      <td align="center">
+        <b>🧬 Deep Learning & Architecture</b><br/><br/>
+        <img src="https://img.shields.io/badge/Physics--Informed_NN-6366F1?style=flat&labelColor=1a1a2e" />&nbsp;
+        <img src="https://img.shields.io/badge/KAN_Networks-0EA5E9?style=flat&labelColor=1a1a2e" />&nbsp;
+        <img src="https://img.shields.io/badge/Semi--Supervised_Learning-818CF8?style=flat&labelColor=1a1a2e" />&nbsp;
+        <img src="https://img.shields.io/badge/Adversarial_ML-F43F5E?style=flat&labelColor=1a1a2e" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>🏥 Domain Applications</b><br/><br/>
+        <img src="https://img.shields.io/badge/Healthcare_AI-DC2626?style=flat&labelColor=1a1a2e" />&nbsp;
+        <img src="https://img.shields.io/badge/Digital_Twin-059669?style=flat&labelColor=1a1a2e" />&nbsp;
+        <img src="https://img.shields.io/badge/Industry_4.0%2F5.0-38BDF8?style=flat&labelColor=1a1a2e" />
+      </td>
+      <td align="center">
+        <b>⚙️ Systems & Robotics</b><br/><br/>
+        <img src="https://img.shields.io/badge/Autonomous_Systems-D97706?style=flat&labelColor=1a1a2e" />&nbsp;
+        <img src="https://img.shields.io/badge/Edge_AI_&_Robotics-14B8A6?style=flat&labelColor=1a1a2e" />&nbsp;
+        <img src="https://img.shields.io/badge/Sensor_Fusion-0284C7?style=flat&labelColor=1a1a2e" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
