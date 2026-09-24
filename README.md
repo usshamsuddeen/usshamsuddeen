@@ -10,7 +10,7 @@
 
   <!-- ── SUBTITLE METRICS ── -->
   <p align="center">
-    <b>⚡ 13+ Research Projects &nbsp;&nbsp;·&nbsp;&nbsp; 📄 6+ Peer-Reviewed Publications &nbsp;&nbsp;·&nbsp;&nbsp; 🏆 AWS · Azure · Google Certified &nbsp;&nbsp;·&nbsp;&nbsp; 🎓 CGPA 3.68/4.00 (Rank 4th)</b>
+    <b>⚡ 14+ Research Projects &nbsp;&nbsp;·&nbsp;&nbsp; 📄 6+ Peer-Reviewed Publications &nbsp;&nbsp;·&nbsp;&nbsp; 🏆 AWS · Azure · Google Certified &nbsp;&nbsp;·&nbsp;&nbsp; 🎓 CGPA 3.68/4.00 (Rank 4th)</b>
   </p>
 
   <!-- ── DYNAMIC TYPING SVG ── -->
@@ -44,7 +44,7 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
 **🏛️ &nbsp;Research**
 - AI Researcher at **Beijing Institute of Technology** & **Wuhan University of Technology**
 - Supervised by *Dr. Muhammad Usman Shoukat* — authoring Q1 journals & IEEE conference papers
-- 13+ completed ML/AI research projects across healthcare, robotics, autonomous systems & NLP
+- 14+ completed ML/AI research projects across healthcare, robotics, autonomous systems & NLP
 
 **🎓 &nbsp;Academics**
 - BS Software Engineering — **KFUEIT** *(CGPA 3.68/4.00 · Class Rank 4th · Dean's Honor)*
@@ -55,7 +55,7 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
 - **Google UX Design Professional Certificate** (Google)
 
 **🔬 &nbsp;Core Research Vectors**
-- Agentic AI & Multilingual RAG · Battery Digital Twins (PINN-STGAT) · Kolmogorov-Arnold Networks (KAN) · FBG Optical Sensing · Semi-Supervised Learning · Hierarchical Edge Robotics Perception
+- Network Security Digital Twins (NetTwin · Conformal Prediction) · Agentic AI & Multilingual RAG · Battery Digital Twins (PINN-STGAT) · Kolmogorov-Arnold Networks (KAN) · FBG Optical Sensing · Semi-Supervised Learning · Hierarchical Edge Robotics Perception
 
 </td></tr>
 </table>
@@ -133,6 +133,19 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Flagship Research & AI/ML Projects
 
 <table>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h4 align="center">🛡️&nbsp; <a href="https://github.com/usshamsuddeen/NetTwin">NetTwin — Network Security Digital Twin</a></h4>
+      <p align="center"><sub><b>28 Years Elapsed [29 Years Inclusive] of Intrusion Detection (1998–2026) · Conformal Guarantees</b></sub></p>
+      <p align="center">Zero-Disk Network Security Digital Twin evaluated across <b>30 intrusion benchmarks (430,951 flows)</b> from DARPA 1998 to ASEADOS-SDN-IoT 2026. Delivers <b>97.49% Mean Detection Rate</b> with marginal finite-sample conformal coverage guarantees ($1-\alpha \ge 90\%$) and zero local disk footprint via in-memory AWS streaming.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/30_Benchmarks-1998--2026-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Conformal_Coverage-92.47%25-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/Detection_Rate-97.49%25-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero--Disk-AWS_Streaming-0284C7?style=flat-square" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">🤖&nbsp; <a href="https://github.com/usshamsuddeen/behavioral-agentic-ai">Behavioral Agentic AI</a></h4>
