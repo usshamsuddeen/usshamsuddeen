@@ -15,7 +15,7 @@
 
   <!-- ── DYNAMIC TYPING SVG ── -->
   <a href="https://github.com/usshamsuddeen">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=36&lines=%E2%9A%A1+AI+Researcher+%40+Beijing+Institute+of+Technology+%26+Wuhan+University+of+Technology;%F0%9F%8F%86+AWS+Solutions+Architect+%7C+Microsoft+Azure+AI+%7C+Google+UX+Certified;%F0%9F%93%84+Author+of+6%2B+Peer-Reviewed+IEEE+%26+International+Publications;%F0%9F%94%AC+Specializing+in+PINN%2C+KAN%2C+Agentic+AI%2C+RAG+%26+Digital+Twins;%F0%9F%A4%96+13%2B+Production+AI%2FML+%26+Deep+Learning+Research+Projects;%F0%9F%8E%A8+Google+Certified+UX+Design+Professional+%7C+Design+Systems+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=36&lines=%E2%9A%A1+AI+Researcher+%40+Beijing+Institute+of+Technology+%26+Wuhan+University+of+Technology;%F0%9F%8F%86+AWS+Solutions+Architect+%7C+Microsoft+Azure+AI+%7C+Google+UX+Certified;%F0%9F%93%84+Author+of+6%2B+Peer-Reviewed+IEEE+%26+International+Publications;%F0%9F%94%AC+Specializing+in+PINN%2C+KAN%2C+Agentic+AI%2C+RAG+%26+Digital+Twins;%F0%9F%A4%96+14%2B+Production+AI%2FML+%26+Deep+Learning+Research+Projects;%F0%9F%8E%A8+Google+Certified+UX+Design+Professional+%7C+Design+Systems+Architect" alt="Typing SVG" />
   </a>
 
   <!-- ── SOCIAL LINKS & VIEWS ── -->
@@ -139,9 +139,10 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
       <p align="center"><sub><b>28 Years Elapsed [29 Years Inclusive] of Intrusion Detection (1998–2026) · Conformal Guarantees</b></sub></p>
       <p align="center">Zero-Disk Network Security Digital Twin evaluated across <b>30 intrusion benchmarks (430,951 flows)</b> from DARPA 1998 to ASEADOS-SDN-IoT 2026. Delivers <b>97.49% Mean Detection Rate</b> with marginal finite-sample conformal coverage guarantees ($1-\alpha \ge 90\%$) and zero local disk footprint via in-memory AWS streaming.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/30_Benchmarks-1998--2026-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Conformal_Coverage-92.47%25-059669?style=flat-square" />
+        <a href="https://github.com/usshamsuddeen/NetTwin"><img src="https://img.shields.io/badge/NetTwin-Framework_Code-0078D4?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/usshamsuddeen/28-Years-Intrusion-Detection-Evaluation"><img src="https://img.shields.io/badge/30_Benchmarks-Evaluation_Artifacts-blueviolet?style=flat-square&logo=github&logoColor=white" /></a>
         <img src="https://img.shields.io/badge/Detection_Rate-97.49%25-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Conformal_Coverage-92.47%25-059669?style=flat-square" />
         <img src="https://img.shields.io/badge/Zero--Disk-AWS_Streaming-0284C7?style=flat-square" />
       </p>
     </td>
