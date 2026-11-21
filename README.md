@@ -38,7 +38,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
 
-I am a **Software Engineer**, **AI Researcher** *(Beijing Institute of Technology & Wuhan University of Technology)*, and **Cloud Architect** architecting next-generation intelligent systems — bridging frontier deep learning research (**PINN · KAN · Agentic RAG · Digital Twins**), enterprise cloud infrastructure (**AWS & Azure Certified**), and human-centric product design into mission-critical solutions across **22+ production systems (14 Public · 9 Private)** and **12 international publications (7 Published · 5 Q1 Under Review)**.
+I am a **Software Engineer** & **AI Researcher** architecting next-generation intelligent systems — bridging frontier deep learning (**NetTwin · PINN-STGAT · KAN · Agentic RAG**), enterprise cloud infrastructure, and digital twins into mission-critical solutions.
 
 <table>
 <tr><td>
