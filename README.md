@@ -512,44 +512,16 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
 
 <div align="center">
 
-  <!-- ── Dynamic Live Streak & Contribution Card ── -->
+  <!-- ── Dynamic Live Streak & Contribution Stats ── -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usshamsuddeen&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=818cf8&fire=38bdf8&currStreakNum=38bdf8" width="100%" alt="GitHub Streak Stats" /><br/><br/>
 
-  <!-- ── Small Real-Time Dynamic Stat Cards (Auto-updating via GitHub API) ── -->
+  <!-- ── Dynamic Live Stats Cards (Auto-updating in real-time via GitHub API) ── -->
   <p align="center">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fusshamsuddeen&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=38BDF8&labelColor=0d1117" alt="Public Repos" />&nbsp;
-    <img src="https://img.shields.io/badge/Private%20Repos-9%20Specialized-818CF8?style=for-the-badge&logo=lock&labelColor=0d1117" alt="Private Repos" />&nbsp;
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fusshamsuddeen&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=38BDF8&labelColor=0d1117" alt="Public Repos" />&nbsp;
+    <img src="https://img.shields.io/badge/Private%20Repositories-9%20Specialized-818CF8?style=for-the-badge&logo=lock&labelColor=0d1117" alt="Private Repos" />&nbsp;
     <img src="https://img.shields.io/badge/Total%20Projects-22%2B%20AI%2FML-10B981?style=for-the-badge&logo=git&labelColor=0d1117" alt="Total Projects" />&nbsp;
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fusshamsuddeen&query=%24.followers&label=Followers&style=for-the-badge&logo=github&color=F59E0B&labelColor=0d1117" alt="Followers" />
-  </p><br/>
-
-  <!-- ── Live Dynamic Small Cards: Flagship Repositories ── -->
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/usshamsuddeen/NetTwin">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=usshamsuddeen&repo=NetTwin&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" width="100%" alt="NetTwin" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/usshamsuddeen/portfolio-2026">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=usshamsuddeen&repo=portfolio-2026&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" width="100%" alt="Portfolio 2026" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/usshamsuddeen/behavioral-agentic-ai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=usshamsuddeen&repo=behavioral-agentic-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" width="100%" alt="Behavioral Agentic AI" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/usshamsuddeen/Battery-Digital-Twin-with-PINN-STGAT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=usshamsuddeen&repo=Battery-Digital-Twin-with-PINN-STGAT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" width="100%" alt="Battery Digital Twin" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  </p>
 
 </div>
 
