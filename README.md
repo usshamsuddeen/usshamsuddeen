@@ -38,7 +38,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
 
-I am a **Software Engineer** & **AI Researcher** architecting next-generation intelligent systems — bridging frontier deep learning (**NetTwin · PINN-STGAT · KAN · Agentic RAG**), enterprise cloud infrastructure, and digital twins into mission-critical solutions.
+I am a **Software Engineer** & **AI Researcher** architecting next-generation intelligent systems — engineering **Autonomous Digital Twins**, **Multilingual Agentic RAG**, and **Resilient Cloud Systems** for enterprise environments.
 
 <table>
 <tr><td>
