@@ -10,18 +10,20 @@
 
   <!-- ── SUBTITLE METRICS ── -->
   <p align="center">
-    <b>⚡ 14+ Research Projects &nbsp;&nbsp;·&nbsp;&nbsp; 📄 6+ Peer-Reviewed Publications &nbsp;&nbsp;·&nbsp;&nbsp; 🏆 AWS · Azure · Google Certified &nbsp;&nbsp;·&nbsp;&nbsp; 🎓 CGPA 3.68/4.00 (Rank 4th)</b>
+    <b>⚡ 22+ AI/ML Projects (14 Public · 9 Private) &nbsp;&nbsp;·&nbsp;&nbsp; 📄 7 Published Papers · 5 Under Review &nbsp;&nbsp;·&nbsp;&nbsp; 🏆 AWS · Azure · Google Certified &nbsp;&nbsp;·&nbsp;&nbsp; 🎓 CGPA 3.68/4.00 (Rank 4th)</b>
   </p>
 
   <!-- ── DYNAMIC TYPING SVG ── -->
   <a href="https://github.com/usshamsuddeen">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=36&lines=%E2%9A%A1+AI+Researcher+%40+Beijing+Institute+of+Technology+%26+Wuhan+University+of+Technology;%F0%9F%8F%86+AWS+Solutions+Architect+%7C+Microsoft+Azure+AI+%7C+Google+UX+Certified;%F0%9F%93%84+Author+of+6%2B+Peer-Reviewed+IEEE+%26+International+Publications;%F0%9F%94%AC+Specializing+in+PINN%2C+KAN%2C+Agentic+AI%2C+RAG+%26+Digital+Twins;%F0%9F%A4%96+14%2B+Production+AI%2FML+%26+Deep+Learning+Research+Projects;%F0%9F%8E%A8+Google+Certified+UX+Design+Professional+%7C+Design+Systems+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=36&lines=%E2%9A%A1+AI+Researcher+%40+Beijing+Institute+of+Technology+%26+Wuhan+University+of+Technology;%F0%9F%8F%86+AWS+Solutions+Architect+%7C+Microsoft+Azure+AI+%7C+Google+UX+Certified;%F0%9F%93%84+Author+of+7+Published+Papers+%2B+5+Q1+Manuscripts+Under+Review;%F0%9F%94%AC+Specializing+in+PINN%2C+KAN%2C+Agentic+AI%2C+RAG+%26+Digital+Twins;%F0%9F%A4%96+22%2B+Production+AI%2FML+Repos+(14+Public+%C2%B7+9+Private);%F0%9F%8E%A4+Invited+Presenter%3A+ICON+'26+Qatar+%C2%B7+ICSR+China+2026+%C2%B7+IEEE+EIC+2025" alt="Typing SVG" />
   </a>
 
   <!-- ── SOCIAL LINKS & VIEWS ── -->
   <p align="center">
+    <a href="https://www.shamshu.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-shamshu.me-EF4444?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+    <a href="https://scholar.google.com/citations?user=f2VtJpEAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
+    <a href="https://orcid.org/0009-0004-9721-6718" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0004--9721--6718-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/usshamsuddeen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="https://orcid.org/0009-0006-2883-7947" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
     <a href="https://mushams.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
     <a href="https://www.behance.net/Shamsss" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>&nbsp;
     <a href="mailto:us.shamsuddeen@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
@@ -44,14 +46,16 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
 **🏛️ &nbsp;Research**
 - AI Researcher at **Beijing Institute of Technology** & **Wuhan University of Technology**
 - Supervised by *Dr. Muhammad Usman Shoukat* — authoring Q1 journals & IEEE conference papers
-- 14+ completed ML/AI research projects across healthcare, robotics, autonomous systems & NLP
+- **7 peer-reviewed and accepted publications** with **5 additional Q1 manuscripts** currently under peer review
+- **22+ completed ML/AI research systems** (14 Public · 9 Private repositories) across healthcare, robotics, autonomous systems & NLP
+- **Invited Presenter** at **ICON '26 Qatar**, **Robotic Super Intelligence Conference China 2026 (ICSR 2026)**, and **IEEE EIC 2025**
 
 **🎓 &nbsp;Academics**
-- BS Software Engineering — **KFUEIT** *(CGPA 3.68/4.00 · Class Rank 4th · Dean's Honor)*
+- BS Software Engineering — **KFUEIT** *(CGPA 3.68/4.00 · Class Rank 4th / Entire Batch 2022–2026 · Dean's Honor)*
 
 **🏆 &nbsp;Certifications**
-- **AWS Certified Solutions Architect – Associate** (Amazon)
-- **Microsoft Certified: AI Agents Developer – Associate** (Azure)
+- **AWS Certified Solutions Architect – Associate** (Amazon Web Services)
+- **Microsoft Certified: AI Agents Developer – Associate** (Microsoft Azure)
 - **Google UX Design Professional Certificate** (Google)
 
 **🔬 &nbsp;Core Research Vectors**
@@ -130,12 +134,12 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
 
 <!-- ═══════════════════ FLAGSHIP PROJECTS ═══════════════════ -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Flagship Research & AI/ML Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Flagship Research & AI/ML Projects (22+ Systems · 14 Public · 9 Private)
 
 <table>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <h4 align="center">🛡️&nbsp; <a href="https://github.com/usshamsuddeen/NetTwin">NetTwin — Network Security Digital Twin</a></h4>
+      <h4 align="center">🛡️&nbsp; <a href="https://github.com/usshamsuddeen/NetTwin">NetTwin — Network Security Digital Twin</a> &nbsp;<code>Public</code></h4>
       <p align="center"><sub><b>28 Years Elapsed [29 Years Inclusive] of Intrusion Detection (1998–2026) · Conformal Guarantees</b></sub></p>
       <p align="center">Zero-Disk Network Security Digital Twin evaluated across <b>30 intrusion benchmarks (430,951 flows)</b> from DARPA 1998 to ASEADOS-SDN-IoT 2026. Delivers <b>97.49% Mean Detection Rate</b> with marginal finite-sample conformal coverage guarantees ($1-\alpha \ge 90\%$) and zero local disk footprint via in-memory AWS streaming.</p>
       <p align="center">
@@ -149,7 +153,7 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🤖&nbsp; <a href="https://github.com/usshamsuddeen/behavioral-agentic-ai">Behavioral Agentic AI</a></h4>
+      <h4 align="center">🤖&nbsp; <a href="https://github.com/usshamsuddeen/behavioral-agentic-ai">Behavioral Agentic AI</a> &nbsp;<code>Public</code></h4>
       <p align="center"><sub><b>Multilingual Sentiment Intelligence · RAG · Churn Prediction</b></sub></p>
       <p>Production-grade system supporting <b>12+ languages</b> with automated sentiment escalation, knowledge-retrieval (RAG), live analytics dashboard, and customer churn prediction. Deployed on VPS.</p>
       <p align="center">
@@ -160,7 +164,19 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🔋&nbsp; <a href="https://github.com/usshamsuddeen/Battery-Digital-Twin-with-PINN-STGAT">Battery Digital Twin — PINN-STGAT</a></h4>
+      <h4 align="center">📈&nbsp; <a href="https://github.com/usshamsuddeen/MS-DED-Multi-Signal-Dynamic-Escalation-Detection">MS-DED Escalation AI</a> &nbsp;<code>Public</code></h4>
+      <p align="center"><sub><b>EJASET 2026 / HAL · Emotional Velocity · F1: 0.941</b></sub></p>
+      <p>Multi-Signal Dynamic Escalation Detection using emotional velocity vectors, acoustic pitch-rate, and false-positive suppression for customer support conversational AI agents.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/EJASET_2026-HAL-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/F1_Score-0.941-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🔋&nbsp; <a href="https://github.com/usshamsuddeen/Battery-Digital-Twin-with-PINN-STGAT">Battery Digital Twin — PINN-STGAT</a> &nbsp;<code>Public</code></h4>
       <p align="center"><sub><b>IEEE IECON 2026 · Physics-Informed Graph Attention</b></sub></p>
       <p>Industry-grade Battery Digital Twin using physics-informed spatial-temporal graph attention networks for voltage-decoupled SoC estimation from multiplexed FBG optical sensor data.</p>
       <p align="center">
@@ -170,10 +186,8 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
         <img src="https://img.shields.io/badge/IEEE_IECON-2563EB?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4 align="center">📡&nbsp; <a href="https://github.com/usshamsuddeen/Deep-Sensing-AI-FBG-Battery-Monitoring">Deep Sensing AI — FBG Monitoring</a></h4>
+      <h4 align="center">📡&nbsp; <a href="https://github.com/usshamsuddeen/Deep-Sensing-AI-FBG-Battery-Monitoring">Deep Sensing AI — FBG Monitoring</a> &nbsp;<code>Public</code></h4>
       <p align="center"><sub><b>Fiber-Optic Intelligence · 731K+ Data Points · 93% Accuracy</b></sub></p>
       <p>Real-time battery health monitoring using Hybrid LSTM+GRU with Attention mechanism. Trained on <b>731,000+</b> data points with SHAP-based explainable AI visualization for thermal runaway detection.</p>
       <p align="center">
@@ -182,8 +196,10 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
         <img src="https://img.shields.io/badge/93%25_Accuracy-10B981?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🚗&nbsp; <a href="https://github.com/usshamsuddeen/Autonomous-Systems-Digital-Twin-Multitask-KAN">Autonomous Systems — Multitask KAN</a></h4>
+      <h4 align="center">🚗&nbsp; <a href="https://github.com/usshamsuddeen/Autonomous-Systems-Digital-Twin-Multitask-KAN">Autonomous Systems — Multitask KAN</a> &nbsp;<code>Public</code></h4>
       <p align="center"><sub><b>Kolmogorov-Arnold Networks · BiLSTM · Sensor Fusion</b></sub></p>
       <p>Novel AI architecture using Kolmogorov-Arnold Networks + BiLSTM for real-time autonomous vehicle fault detection. Processes camera, radar, and LiDAR data in virtual digital twin environments.</p>
       <p align="center">
@@ -192,10 +208,8 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
         <img src="https://img.shields.io/badge/Sensor_Fusion-8B5CF6?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🔬&nbsp; <a href="https://github.com/usshamsuddeen/Advanced-CV-Research-Cancer-Multi-Model-Classification">Medical CV — HybridNet Benchmark</a></h4>
+      <h4 align="center">🔬&nbsp; <a href="https://github.com/usshamsuddeen/Advanced-CV-Research-Cancer-Multi-Model-Classification">Medical CV — HybridNet Benchmark</a> &nbsp;<code>Public</code></h4>
       <p align="center"><sub><b>9 Architectures Compared · 94.57% Accuracy · 0.9502 ROC AUC</b></sub></p>
       <p>Systematic benchmark of 9 deep learning architectures for tumor classification. Custom <b>HybridNet</b> achieved <b>94.57% accuracy</b> and <b>0.9502 ROC AUC</b>, outperforming larger SOTA architectures.</p>
       <p align="center">
@@ -204,8 +218,10 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
         <img src="https://img.shields.io/badge/94.57%25_Acc-10B981?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🤖&nbsp; <a href="https://github.com/usshamsuddeen/AI-ML-Hierarchical-Perception-for-Home-Use-Robots">Hierarchical Robotics Perception</a></h4>
+      <h4 align="center">🤖&nbsp; <a href="https://github.com/usshamsuddeen/AI-ML-Hierarchical-Perception-for-Home-Use-Robots">Hierarchical Robotics Perception</a> &nbsp;<code>Public</code></h4>
       <p align="center"><sub><b>IEEE ICSR 2026 · YOLOv8 · 6-DoF Pose Estimation</b></sub></p>
       <p>Hierarchical YOLOv8 perception pipeline for household service robots — real-time object detection, fine-grained classification, 6-DoF pose estimation, and grasp reasoning on edge devices.</p>
       <p align="center">
@@ -214,10 +230,8 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
         <img src="https://img.shields.io/badge/IEEE_ICSR-3B82F6?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🧪&nbsp; <a href="https://github.com/usshamsuddeen/ML-Solution-Architecture-1-SSL-Noisy-PseudoLabel-Refinement">SSL — HybridBalance Framework</a></h4>
+      <h4 align="center">🧪&nbsp; <a href="https://github.com/usshamsuddeen/ML-Solution-Architecture-1-SSL-Noisy-PseudoLabel-Refinement">SSL — HybridBalance Framework</a> &nbsp;<code>Public</code></h4>
       <p align="center"><sub><b>Graph Consensus · Contrastive Consistency · +45% Minority Acc</b></sub></p>
       <p>Research framework (HybridBalance) for training AI on limited labeled data. Solves incorrect label pollution and skewed distributions, improving minority class accuracy by <b>+45%</b>.</p>
       <p align="center">
@@ -226,8 +240,10 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
         <img src="https://img.shields.io/badge/%2B45%25_Minority-10B981?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4 align="center">📊&nbsp; <a href="https://github.com/usshamsuddeen/ML-Solution-Architecture-2-SSL-Class-Imbalance-BalanceMatch">SSL — BalanceMatch Architecture</a></h4>
+      <h4 align="center">📊&nbsp; <a href="https://github.com/usshamsuddeen/ML-Solution-Architecture-2-SSL-Class-Imbalance-BalanceMatch">SSL — BalanceMatch Architecture</a> &nbsp;<code>Public</code></h4>
       <p align="center"><sub><b>Prototypical Networks · Representation Learning · SOTA</b></sub></p>
       <p>Novel semi-supervised architecture integrating BalanceMatch with Prototypical Networks to dramatically bolster minority class representation in severely imbalanced data distributions.</p>
       <p align="center">
@@ -236,47 +252,138 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
         <img src="https://img.shields.io/badge/SOTA-8B5CF6?style=flat-square" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h4 align="center">💳&nbsp; <a href="https://github.com/usshamsuddeen/DACC-Deterministic-Atomic-Conversational-Checkout">DACC — Deterministic Conversational Checkout</a> &nbsp;<code>Public</code></h4>
+      <p align="center"><sub><b>Deterministic Finite State · Zero Hallucination Commerce</b></sub></p>
+      <p>Deterministic conversational checkout architecture preventing transactional hallucination in autonomous conversational e-commerce agents via finite-state verification.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Finite_State-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/E--Commerce-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero_Hallucination-7C3AED?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>📌 &nbsp;More Repositories — Private & Specialized Research</b></summary>
+<details open>
+  <summary><b>📌 &nbsp;All Repositories — 14 Public & 9 Private Specialized Systems</b></summary>
   <br/>
   <table>
+    <tr><th width="40%">Repository</th><th width="45%">Description & Core Research Vector</th><th width="15%">Access</th></tr>
     <tr>
-      <td valign="top">
-        <b>🚇 TDAG-Net</b> — <i>Adaptive Graph Learning with Persona-Aware Interpretability for Metro Passenger Flow Prediction</i> <code>Private</code>
-      </td>
+      <td><b>🛡️ <a href="https://github.com/usshamsuddeen/NetTwin">NetTwin</a></b></td>
+      <td>Zero-Disk Network Security Digital Twin across 30 intrusion benchmarks (1998–2026)</td>
+      <td><code>Public</code></td>
     </tr>
     <tr>
-      <td valign="top">
-        <b>🚇 CRISP-Net</b> — <i>Forecasting Metro Entry and Exit Flows with Direction-Specific Prediction Intervals</i> <code>Private</code>
-      </td>
+      <td><b>🤖 <a href="https://github.com/usshamsuddeen/behavioral-agentic-ai">behavioral-agentic-ai</a></b></td>
+      <td>Multilingual sentiment intelligence, RAG escalation, and live churn analytics</td>
+      <td><code>Public</code></td>
     </tr>
     <tr>
-      <td valign="top">
-        <b>🤖 Hierarchical YOLOv8</b> — <i>Object Detection, Pose Estimation, and Grasp Reasoning for Home-Use Robots (IEEE TCE)</i> <code>Private</code>
-      </td>
+      <td><b>📈 <a href="https://github.com/usshamsuddeen/MS-DED-Multi-Signal-Dynamic-Escalation-Detection">MS-DED</a></b></td>
+      <td>Multi-Signal Dynamic Escalation Detection using emotional velocity (EJASET 2026 / HAL)</td>
+      <td><code>Public</code></td>
     </tr>
     <tr>
-      <td valign="top">
-        <b>☁️ AWS Cloud Repository</b> — <i>Comprehensive Cloud Materials, Tools and Assets for AWS Certification</i> <code>Private</code>
-      </td>
+      <td><b>🔋 <a href="https://github.com/usshamsuddeen/Battery-Digital-Twin-with-PINN-STGAT">Battery-Digital-Twin-PINN-STGAT</a></b></td>
+      <td>Physics-informed graph attention network for multiplexed FBG optical battery twin (IEEE IECON)</td>
+      <td><code>Public</code></td>
     </tr>
     <tr>
-      <td valign="top">
-        <b>💊 <a href="https://github.com/usshamsuddeen/Smart-Pharma-Inventory-AI">Smart Pharma Inventory AI</a></b> — <i>AI-Driven Pharmaceutical Supply Chain Dashboard with Real-Time Stock Monitoring</i>
-      </td>
+      <td><b>📡 <a href="https://github.com/usshamsuddeen/Deep-Sensing-AI-FBG-Battery-Monitoring">Deep-Sensing-AI-FBG-Monitoring</a></b></td>
+      <td>Real-time battery health & thermal runaway detection on 731K data points with SHAP XAI</td>
+      <td><code>Public</code></td>
     </tr>
     <tr>
-      <td valign="top">
-        <b>🏢 <a href="https://github.com/usshamsuddeen/tech-enterprise-redesign">Tech Enterprise Redesign</a></b> — <i>Complete UI/UX Modernization and Architectural Redesign of Enterprise Website</i>
-      </td>
+      <td><b>🚗 <a href="https://github.com/usshamsuddeen/Autonomous-Systems-Digital-Twin-Multitask-KAN">Autonomous-Systems-Multitask-KAN</a></b></td>
+      <td>Kolmogorov-Arnold Networks + BiLSTM for real-time AV fault detection & sensor fusion</td>
+      <td><code>Public</code></td>
     </tr>
     <tr>
-      <td valign="top">
-        <b>🌐 <a href="https://github.com/usshamsuddeen/portfolio-2026">Portfolio 2026</a></b> — <i>Personal Portfolio Website — React + TypeScript + TailwindCSS</i>
-      </td>
+      <td><b>💳 <a href="https://github.com/usshamsuddeen/DACC-Deterministic-Atomic-Conversational-Checkout">DACC-Checkout</a></b></td>
+      <td>Deterministic conversational checkout agent preventing hallucination in e-commerce transactions</td>
+      <td><code>Public</code></td>
+    </tr>
+    <tr>
+      <td><b>🔒 <a href="https://github.com/usshamsuddeen/ZL-AgentFabric-Zero-Leakage-Multi-Tenant-Architecture">ZL-AgentFabric</a></b></td>
+      <td>Zero-Leakage multi-tenant conversational agent architecture with cryptographic isolation</td>
+      <td><code>Public</code></td>
+    </tr>
+    <tr>
+      <td><b>🔬 <a href="https://github.com/usshamsuddeen/Advanced-CV-Research-Cancer-Multi-Model-Classification">Advanced-CV-Cancer-Classification</a></b></td>
+      <td>HybridNet 9-architecture systematic deep learning benchmark (94.57% accuracy, 0.9502 ROC AUC)</td>
+      <td><code>Public</code></td>
+    </tr>
+    <tr>
+      <td><b>🧪 <a href="https://github.com/usshamsuddeen/ML-Solution-Architecture-1-SSL-Noisy-PseudoLabel-Refinement">SSL-Solution-Architecture-1</a></b></td>
+      <td>HybridBalance framework solving noisy pseudo-labels with graph consensus (+45% minority acc)</td>
+      <td><code>Public</code></td>
+    </tr>
+    <tr>
+      <td><b>📊 <a href="https://github.com/usshamsuddeen/ML-Solution-Architecture-2-SSL-Class-Imbalance-BalanceMatch">SSL-Solution-Architecture-2</a></b></td>
+      <td>BalanceMatch + Prototypical Networks for severe class imbalance in semi-supervised learning</td>
+      <td><code>Public</code></td>
+    </tr>
+    <tr>
+      <td><b>🤖 <a href="https://github.com/usshamsuddeen/AI-ML-Hierarchical-Perception-for-Home-Use-Robots">Hierarchical-Perception-Robots</a></b></td>
+      <td>Hierarchical YOLOv8 edge perception & 6-DoF pose estimation (IEEE ICSR 2026)</td>
+      <td><code>Public</code></td>
+    </tr>
+    <tr>
+      <td><b>💊 <a href="https://github.com/usshamsuddeen/Smart-Pharma-Inventory-AI">Smart-Pharma-Inventory-AI</a></b></td>
+      <td>Pharmaceutical supply chain predictive intelligence dashboard with real-time analytics</td>
+      <td><code>Public</code></td>
+    </tr>
+    <tr>
+      <td><b>🏢 <a href="https://github.com/usshamsuddeen/tech-enterprise-redesign">tech-enterprise-redesign</a></b></td>
+      <td>Complete architectural redesign and UI/UX modernization of enterprise tech platform</td>
+      <td><code>Public</code></td>
+    </tr>
+    <tr>
+      <td><b>🚇 TDAG-Net</b></td>
+      <td>Adaptive Graph Learning with Persona-Aware Interpretability for Metro Passenger Flow Prediction</td>
+      <td><code>Private</code></td>
+    </tr>
+    <tr>
+      <td><b>🚇 CRISP-Net</b></td>
+      <td>Forecasting Metro Entry and Exit Flows with Direction-Specific Prediction Intervals</td>
+      <td><code>Private</code></td>
+    </tr>
+    <tr>
+      <td><b>🤖 Hierarchical YOLOv8 (IEEE TCE)</b></td>
+      <td>Object Detection, Pose Estimation, and Grasp Reasoning for Home-Use Robots (Journal Paper)</td>
+      <td><code>Private</code></td>
+    </tr>
+    <tr>
+      <td><b>☁️ AWS Cloud Infrastructure Core</b></td>
+      <td>Comprehensive Cloud Architecture Assets, IaC, Tools and Solutions Architect Materials</td>
+      <td><code>Private</code></td>
+    </tr>
+    <tr>
+      <td><b>🧠 SentimentRAG Production Pipeline</b></td>
+      <td>Emotion-Aware Knowledge Retrieval Engine with Temporal User State Trajectories</td>
+      <td><code>Private</code></td>
+    </tr>
+    <tr>
+      <td><b>🛍️ Affective E-Commerce Closed-Loop</b></td>
+      <td>Closed-loop feedback framework for adaptive, emotion-calibrated support agents</td>
+      <td><code>Private</code></td>
+    </tr>
+    <tr>
+      <td><b>📦 Atomic Inventory Serialization Engine</b></td>
+      <td>High-throughput deterministic concurrency controller for autonomous conversational transactions</td>
+      <td><code>Private</code></td>
+    </tr>
+    <tr>
+      <td><b>🔐 Agentic Multi-Tenant Crypto-Sandbox</b></td>
+      <td>Hardware-enclave isolation and cryptographic verification for multi-tenant LLM agents</td>
+      <td><code>Private</code></td>
+    </tr>
+    <tr>
+      <td><b>🔋 PhysioTwin Degradation Forecaster</b></td>
+      <td>Real-Time Lithium-Ion Degradation Forecasting with Physics-Guided Neural Operators</td>
+      <td><code>Private</code></td>
     </tr>
   </table>
 </details>
@@ -285,16 +392,30 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
 
 <!-- ═══════════════════ PUBLICATIONS ═══════════════════ -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" /> &nbsp;Peer-Reviewed Publications & Conferences
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" /> &nbsp;Peer-Reviewed Publications & Conferences (7 Published · 5 Under Review)
 
 | # | Title | Venue | Year | Link |
 |:---:|:---|:---|:---:|:---:|
+| **P7** | Multi-Signal Dynamic Escalation Detection Using Emotional Velocity and False-Positive Suppression in Customer Service AI | *European J. of Applied Science, Eng. & Tech. (EJASET)* | 2026 | [HAL](https://hal.science/hal-05865409v1) / [DOI](https://doi.org/10.59324/ejaset.2026.4(6).12) |
 | **P6** | Battery Digital Twin with Spatial-Temporal Graph Attention Networks for State of Charge Estimation | *IEEE IECON 2026* | 2026 | [Link](https://www.iecon2026.org/) |
 | **P5** | YOLOv8-Based Object Detection and Localization for Home-Use Robot | *Intl Conf on Superintelligence & Robotics (ICSR 2026)* | 2026 | [Link](https://www.icsr-conf.com/) |
 | **P4** | Comparative Analysis on AI-Driven Human Digital Twin for Personalized Medicine | *J. of Clinical Practice & Medical Research* | 2025 | [DOI](https://doi.org/10.59324/jcpmr.2025.1(1).06) |
 | **P3** | Framework for Mitigating Adversarial Attacks on CNN Models | *Scientific J. of Engineering Research* | 2025 | [DOI](https://doi.org/10.64539/sjer.v1i4.2025.349) |
 | **P2** | Design and Implementation of a Smart Footsteps Power Generation System | *European J. of Applied Science, Eng. & Tech.* | 2025 | [DOI](https://doi.org/10.59324/ejaset.2025.3(5).14) |
 | **P1** | Rolling Bearing Fault Detection using Deep Learning: Industry 4.0/5.0 | *Scientia: Technology, Science & Society* | 2024 | [DOI](https://doi.org/10.59324/stss.2024.1(3).06) |
+
+<details>
+  <summary><b>📄 &nbsp;5 Additional Q1 Journal Manuscripts (Currently Under Peer Review)</b></summary>
+  <br/>
+  <table>
+    <tr><th>#</th><th>Title</th><th>Target Journal (Publisher)</th><th>Status</th></tr>
+    <tr><td><b>P8</b></td><td>SentimentRAG: Emotion-Aware Knowledge Retrieval with Temporal User State Modeling</td><td><i>Information Sciences</i> (Elsevier, INS-D-26-11575)</td><td><code>Under Review — Q1</code></td></tr>
+    <tr><td><b>P9</b></td><td>Bridging Affective Computing and Intelligent Information Systems: A Closed-Loop Framework</td><td><i>Engineering Applications of AI</i> (Elsevier)</td><td><code>Under Review — Q1</code></td></tr>
+    <tr><td><b>P10</b></td><td>Deterministic Conversational Commerce via Finite-State Checkout Agents and Atomic Inventory</td><td><i>Expert Systems with Applications</i> (Elsevier)</td><td><code>Under Review — Q1</code></td></tr>
+    <tr><td><b>P11</b></td><td>Zero-Leakage Multi-Tenant Agent Architecture with Cryptographic Isolation</td><td><i>IEEE Transactions on Information Forensics and Security</i></td><td><code>Under Review — Q1</code></td></tr>
+    <tr><td><b>P12</b></td><td>PhysioTwin-FBG: Real-Time Lithium-Ion Degradation Forecasting with Physics-Guided Operators</td><td><i>IEEE Transactions on Industrial Informatics</i></td><td><code>Under Review — Q1</code></td></tr>
+  </table>
+</details>
 
 ---
 
@@ -440,6 +561,7 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
   </p>
 
   <p>
+    <a href="https://scholar.google.com/citations?user=f2VtJpEAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
     <a href="mailto:us.shamsuddeen@gmail.com"><img src="https://img.shields.io/badge/us.shamsuddeen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/usshamsuddeen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="https://github.com/usshamsuddeen" target="_blank"><img src="https://img.shields.io/badge/Follow-@usshamsuddeen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
