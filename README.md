@@ -22,7 +22,7 @@
   <p align="center">
     <a href="https://www.shamshu.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-shamshu.me-EF4444?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
     <a href="https://scholar.google.com/citations?user=f2VtJpEAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
-    <a href="https://orcid.org/0009-0004-9721-6718" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0004--9721--6718-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
+    <a href="https://orcid.org/0009-0006-2883-7947" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0006--2883--7947-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/usshamsuddeen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="https://mushams.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
     <a href="https://www.behance.net/Shamsss" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>&nbsp;
@@ -512,38 +512,21 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
 
 <div align="center">
 
-  <!-- Row 1: Stats + Languages -->
+  <!-- Row 1: Core Engineering Stats & Languages -->
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=usshamsuddeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=usshamsuddeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9&include_all_commits=true&count_private=true&hide_rank=true" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=usshamsuddeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usshamsuddeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=6&hide=html,css,batchfile" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <!-- Row 2: Profile Summary Cards -->
-  <table border="0">
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usshamsuddeen&theme=tokyonight" width="100%" alt="Stats Summary" />
-      </td>
-      <td width="33%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usshamsuddeen&theme=tokyonight" width="100%" alt="Repos per Language" />
-      </td>
-      <td width="33%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usshamsuddeen&theme=tokyonight" width="100%" alt="Commits per Language" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Row 3: Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usshamsuddeen&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=818cf8&point=f59e0b&area=true&area_color=818cf8" width="100%" alt="Contribution Graph" />
-
-  <!-- Row 4: Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usshamsuddeen&theme=tokyonight" width="100%" alt="Profile Details" />
+  <!-- Row 2: Contribution Streak & Activity -->
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usshamsuddeen&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=818cf8&fire=38bdf8&currStreakNum=38bdf8" width="100%" alt="GitHub Streak Stats" />
 
 </div>
 
