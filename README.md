@@ -404,18 +404,7 @@ I am a **Software Engineer** & **AI Researcher** architecting next-generation in
 | **P2** | Design and Implementation of a Smart Footsteps Power Generation System | *European J. of Applied Science, Eng. & Tech.* | 2025 | [DOI](https://doi.org/10.59324/ejaset.2025.3(5).14) |
 | **P1** | Rolling Bearing Fault Detection using Deep Learning: Industry 4.0/5.0 | *Scientia: Technology, Science & Society* | 2024 | [DOI](https://doi.org/10.59324/stss.2024.1(3).06) |
 
-<details>
-  <summary><b>📄 &nbsp;5 Additional Q1 Journal Manuscripts (Currently Under Peer Review)</b></summary>
-  <br/>
-  <table>
-    <tr><th>#</th><th>Title</th><th>Target Journal (Publisher)</th><th>Status</th></tr>
-    <tr><td><b>P8</b></td><td>SentimentRAG: Emotion-Aware Knowledge Retrieval with Temporal User State Modeling</td><td><i>Information Sciences</i> (Elsevier, INS-D-26-11575)</td><td><code>Under Review — Q1</code></td></tr>
-    <tr><td><b>P9</b></td><td>Bridging Affective Computing and Intelligent Information Systems: A Closed-Loop Framework</td><td><i>Engineering Applications of AI</i> (Elsevier)</td><td><code>Under Review — Q1</code></td></tr>
-    <tr><td><b>P10</b></td><td>Deterministic Conversational Commerce via Finite-State Checkout Agents and Atomic Inventory</td><td><i>Expert Systems with Applications</i> (Elsevier)</td><td><code>Under Review — Q1</code></td></tr>
-    <tr><td><b>P11</b></td><td>Zero-Leakage Multi-Tenant Agent Architecture with Cryptographic Isolation</td><td><i>IEEE Transactions on Information Forensics and Security</i></td><td><code>Under Review — Q1</code></td></tr>
-    <tr><td><b>P12</b></td><td>PhysioTwin-FBG: Real-Time Lithium-Ion Degradation Forecasting with Physics-Guided Operators</td><td><i>IEEE Transactions on Industrial Informatics</i></td><td><code>Under Review — Q1</code></td></tr>
-  </table>
-</details>
+<p><b>📄 &nbsp;5 Additional Q1 Journal Manuscripts (Currently Under Peer Review)</b></p>
 
 ---
 
